@@ -13,8 +13,13 @@
 void(test)
   
 // Driver function 
-int main(void) 
+int main_0(void) 
 { 
-	MrBenjoo -> ändrat funktionen;
+	MrBenjoo_0 -> ändrat funktionen;
+}
+
+int main_1(void) 
+{ 
+	MrBenjoo_1 -> ändrat funktionen;
 }
 
