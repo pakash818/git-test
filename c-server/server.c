@@ -23,3 +23,8 @@ int main_1(void)
 	MrBenjoo_1 -> ändrat funktionen;
 }
 
+int main_2(void) 
+{ 
+	MrBenjoo_2 -> ändrat funktionen;
+}
+
