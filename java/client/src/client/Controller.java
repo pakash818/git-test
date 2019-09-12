@@ -8,5 +8,8 @@ import ui.IView;
 import ui.View;
 
 public class Controller implements IController {
-	Pakash818 -> ändrat funktionen;
+	Pakash818_0 -> ändrat funktionen;
+
+
+Pakash818_1 -> ändrat funktionen;
 }
